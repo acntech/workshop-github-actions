@@ -2,7 +2,6 @@
     "name": "frontend-template",
     "description": "Frontend application",
     "version": "0.0.1",
-    "author": "andreas.aarvold@accenture.com",
     "license": "ISC",
     "scripts": {
         "start": "webpack serve --config config/webpack.dev.js",
